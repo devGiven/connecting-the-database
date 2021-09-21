@@ -1,0 +1,15 @@
+C:\Users\19336755\source\repos\connectingDatabase\bin\Debug\connectingDatabase.exe.config
+C:\Users\19336755\source\repos\connectingDatabase\bin\Debug\connectingDatabase.exe
+C:\Users\19336755\source\repos\connectingDatabase\bin\Debug\connectingDatabase.pdb
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.csprojAssemblyReference.cache
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\MainWindow.g.cs
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\App.g.cs
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase_MarkupCompile.cache
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase_MarkupCompile.lref
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\MainWindow.baml
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.g.resources
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.Properties.Resources.resources
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.csproj.GenerateResource.cache
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.csproj.CoreCompileInputs.cache
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.exe
+C:\Users\19336755\source\repos\connectingDatabase\obj\Debug\connectingDatabase.pdb
